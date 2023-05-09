@@ -1,0 +1,6 @@
+name: SoundReplacer
+version: 0.2
+main: org.acornmc.soundreplacer.SoundReplacer
+api-version: 1.17
+authors: [DrBot]
+depend: [ ProtocolLib ]
